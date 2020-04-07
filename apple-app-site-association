@@ -2,12 +2,6 @@
     "applinks": {
         "apps": [],
         "details": [
-            {
-                "appID": "842AN5YB63.org.iggymedia.periodtracker",
-                "paths": [
-                    "*"
-                ]
-            },
 {
                 "appID": "PL43F3STB6.org.iggymedia.periodtracker",
                 "paths": [
