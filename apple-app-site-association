@@ -5,7 +5,7 @@
 {
                 "appID": "PL43F3STB6.org.iggymedia.periodtracker",
                 "paths": [
-                    "/mobile/*"
+                    "*"
                 ]
             }
         ]
